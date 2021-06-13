@@ -1,5 +1,7 @@
 # paper-covid19-modelling-2021-03
-Repository for the paper: Weekly Bayesian modelling strategy to predict deaths by COVID-19: a model and case study for the state of Santa Catarina, Brazil
+Repository for the paper: 
+
+> Avelar, P. H. da C., Lamb, L. C., Tsoka, S., & Cardoso-Silva, J. (2021). Weekly Bayesian modelling strategy to predict deaths by COVID-19: a model and case study for the state of Santa Catarina, Brazil. Retrieved from http://arxiv.org/abs/2104.01133
 
 # Licenses
 
