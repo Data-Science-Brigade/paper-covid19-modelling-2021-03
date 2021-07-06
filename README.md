@@ -3,6 +3,10 @@ Repository for the paper:
 
 > Avelar, P. H. da C., Lamb, L. C., Tsoka, S., & Cardoso-Silva, J. (2021). Weekly Bayesian modelling strategy to predict deaths by COVID-19: a model and case study for the state of Santa Catarina, Brazil. Retrieved from http://arxiv.org/abs/2104.01133
 
+This repository is a snapshot of the code when we wrote the paper. For the live, more up-to-date code, please refer to:
+
+https://github.com/Data-Science-Brigade/modelo-epidemiologico-sc
+
 # Licenses
 
 All code, in this repository, authored by the paper's authors, available inside a subfolder `modelo-epidemiologico-sc` is under the license defined in the original repository: https://github.com/Data-Science-Brigade/modelo-epidemiologico-sc/
